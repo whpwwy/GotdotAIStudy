@@ -12,15 +12,16 @@
 
 ## 文章统计
 
-- 累计文章：**2** 篇
+- 累计文章：**3** 篇
 - 最新更新：**2026-11-13**
-- 文章文件数：**2** 个
+- 文章文件数：**3** 个
 
 ## 最新文章
 
 | 日期 | 标题 | 主题关键词 | 文件 |
 |---|---|---|---|
 | 2026-11-13 | Godot 群体行为 AI：用 Boids（鸟群算法）实现鸟群/鱼群模拟 | boids, flocking, 群体行为, separation, alignment, cohesion, steering, 转向力, 人工生命 | [articles/2026-11-13-godot-boids-flocking.md](articles/2026-11-13-godot-boids-flocking.md) |
+| 2026-11-13 | Godot 2D 寻路 AI：用 NavigationAgent2D 实现路径跟随与点击移动 | NavigationAgent2D, NavigationRegion2D, NavigationPolygon, 2D寻路, 路径跟随, target_position | articles/2026-11-13-godot-navigationagent2d-pathfinding.md |
 | 2026-11-06 | 用行为树（Behavior Tree）设计 Godot AI：从原理到实战 | behavior tree, 行为树, Sequence, Selector, Leaf, Blackboard, 敌人AI | [articles/2026-11-06-godot-behavior-tree-ai.md](articles/2026-11-06-godot-behavior-tree-ai.md) |
 
 ## 自动化说明

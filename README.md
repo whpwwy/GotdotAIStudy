@@ -12,14 +12,15 @@
 
 ## 文章统计
 
-- 累计文章：**5** 篇
-- 最新更新：**2026-11-15**
-- 文章文件数：**5** 个
+- 累计文章：**6** 篇
+- 最新更新：**2026-11-16**
+- 文章文件数：**6** 个
 
 ## 最新文章
 
 | 日期 | 标题 | 主题关键词 | 文件 |
 |---|---|---|---|
+| 2026-11-16 | Godot 4 GOAP 实战：让敌人自己「想」出行动序列 | GOAP, Goal-Oriented Action Planning, STRIPS, 目标导向行动规划, 行动规划, 前置条件, 世界状态, 重规划, A*规划 | articles/2026-11-16-godot-goap-ai-planner.md |
 | 2026-11-15 | Godot 4 接入大语言模型：用 HTTPRequest 打造有记忆的 NPC 对话 | LLM, 大语言模型, HTTPRequest, NPC 对话, 生成式 AI, OpenAI API, 上下文记忆, Chat Completions | articles/2026-11-15-godot-llm-npc-dialogue.md |
 | 2026-11-14 | Godot AI 有限状态机：用 enter/exit 与历史状态实现可中断 AI | finite state machine, state machine, FSM, 有限状态机, enter/exit, 状态转换, 中断恢复 | articles/2026-11-14-godot-interruptible-fsm.md |
 | 2026-11-13 | Godot 群体行为 AI：用 Boids（鸟群算法）实现鸟群/鱼群模拟 | boids, flocking, 群体行为, separation, alignment, cohesion, steering, 转向力, 人工生命 | [articles/2026-11-13-godot-boids-flocking.md](articles/2026-11-13-godot-boids-flocking.md) |

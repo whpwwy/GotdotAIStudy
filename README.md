@@ -12,14 +12,15 @@
 
 ## 文章统计
 
-- 累计文章：**7** 篇
-- 最新更新：**2026-11-17**
-- 文章文件数：**7** 个
+- 累计文章：**8** 篇
+- 最新更新：**2026-11-18**
+- 文章文件数：**8** 个
 
 ## 最新文章
 
 | 日期 | 标题 | 主题关键词 | 文件 |
 |---|---|---|---|
+| 2026-11-18 | Godot 4 强化学习入门：用 Q-Learning 训练一个会自己学追人的敌人 | 强化学习, Reinforcement Learning, Q-Learning, Q表, Bellman方程, epsilon-greedy, 奖励函数, 马尔可夫决策过程 | articles/2026-11-18-godot-q-learning-reinforcement.md |
 | 2026-11-17 | Godot 4 Utility AI 实战：用效用评分与响应曲线让敌人自己权衡行动 | Utility AI, 效用AI, 考量项, Consideration, 响应曲线, Response Curve, 补偿因子, 行为评分, 决策惯性 | articles/2026-11-17-godot-utility-ai.md |
 | 2026-11-16 | Godot 4 GOAP 实战：让敌人自己「想」出行动序列 | GOAP, Goal-Oriented Action Planning, STRIPS, 目标导向行动规划, 行动规划, 前置条件, 世界状态, 重规划, A*规划 | articles/2026-11-16-godot-goap-ai-planner.md |
 | 2026-11-15 | Godot 4 接入大语言模型：用 HTTPRequest 打造有记忆的 NPC 对话 | LLM, 大语言模型, HTTPRequest, NPC 对话, 生成式 AI, OpenAI API, 上下文记忆, Chat Completions | articles/2026-11-15-godot-llm-npc-dialogue.md |

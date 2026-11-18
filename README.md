@@ -12,14 +12,15 @@
 
 ## 文章统计
 
-- 累计文章：**8** 篇
-- 最新更新：**2026-11-18**
-- 文章文件数：**8** 个
+- 累计文章：**9** 篇
+- 最新更新：**2026-11-19**
+- 文章文件数：**9** 个
 
 ## 最新文章
 
 | 日期 | 标题 | 主题关键词 | 文件 |
 |---|---|---|---|
+| 2026-11-19 | Godot 4 PCG 实战：用 Wave Function Collapse 与噪声生成程序化地牢 | PCG, 程序化生成, Wave Function Collapse, WFC, 约束传播, 熵最小化, FastNoiseLite, 种子随机, TileMapLayer, 程序化地牢 | articles/2026-11-19-godot-pcg-wfc-procedural-generation.md |
 | 2026-11-18 | Godot 4 强化学习入门：用 Q-Learning 训练一个会自己学追人的敌人 | 强化学习, Reinforcement Learning, Q-Learning, Q表, Bellman方程, epsilon-greedy, 奖励函数, 马尔可夫决策过程 | articles/2026-11-18-godot-q-learning-reinforcement.md |
 | 2026-11-17 | Godot 4 Utility AI 实战：用效用评分与响应曲线让敌人自己权衡行动 | Utility AI, 效用AI, 考量项, Consideration, 响应曲线, Response Curve, 补偿因子, 行为评分, 决策惯性 | articles/2026-11-17-godot-utility-ai.md |
 | 2026-11-16 | Godot 4 GOAP 实战：让敌人自己「想」出行动序列 | GOAP, Goal-Oriented Action Planning, STRIPS, 目标导向行动规划, 行动规划, 前置条件, 世界状态, 重规划, A*规划 | articles/2026-11-16-godot-goap-ai-planner.md |

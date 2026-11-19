@@ -12,14 +12,15 @@
 
 ## 文章统计
 
-- 累计文章：**9** 篇
-- 最新更新：**2026-11-19**
-- 文章文件数：**9** 个
+- 累计文章：**10** 篇
+- 最新更新：**2026-11-20**
+- 文章文件数：**10** 个
 
 ## 最新文章
 
 | 日期 | 标题 | 主题关键词 | 文件 |
 |---|---|---|---|
+| 2026-11-20 | Godot 4 敌人感知系统实战：视野锥、视线遮挡与听觉怀疑度 | AI 感知系统, Perception System, 视野锥, FOV, 点积视角判定, 视线遮挡, RayCast3D, 听觉感知, 怀疑度, suspicion | articles/2026-11-20-godot-enemy-perception-fov.md |
 | 2026-11-19 | Godot 4 PCG 实战：用 Wave Function Collapse 与噪声生成程序化地牢 | PCG, 程序化生成, Wave Function Collapse, WFC, 约束传播, 熵最小化, FastNoiseLite, 种子随机, TileMapLayer, 程序化地牢 | articles/2026-11-19-godot-pcg-wfc-procedural-generation.md |
 | 2026-11-18 | Godot 4 强化学习入门：用 Q-Learning 训练一个会自己学追人的敌人 | 强化学习, Reinforcement Learning, Q-Learning, Q表, Bellman方程, epsilon-greedy, 奖励函数, 马尔可夫决策过程 | articles/2026-11-18-godot-q-learning-reinforcement.md |
 | 2026-11-17 | Godot 4 Utility AI 实战：用效用评分与响应曲线让敌人自己权衡行动 | Utility AI, 效用AI, 考量项, Consideration, 响应曲线, Response Curve, 补偿因子, 行为评分, 决策惯性 | articles/2026-11-17-godot-utility-ai.md |

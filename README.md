@@ -12,14 +12,15 @@
 
 ## 文章统计
 
-- 累计文章：**11** 篇
-- 最新更新：**2026-11-21**
-- 文章文件数：**11** 个
+- 累计文章：**12** 篇
+- 最新更新：**2026-11-22**
+- 文章文件数：**12** 个
 
 ## 最新文章
 
 | 日期 | 标题 | 主题关键词 | 文件 |
 |---|---|---|---|
+| 2026-11-22 | Godot 4 遗传算法实战：用选择、交叉与变异进化敌人 AI | 遗传算法, Genetic Algorithm, 进化计算, 适应度函数, 锦标赛选择, 均匀交叉, 高斯变异, 精英保留 | articles/2026-11-22-godot-genetic-algorithm-enemy-ai.md |
 | 2026-11-21 | Godot 4 影响图（Influence Map）实战：给网格装上战术危险感 | Influence Map, 影响图, 战术 AI, 危险场, 空间推理, AStarGrid2D, 影响传播, 权重寻路 | articles/2026-11-21-godot-influence-maps-tactical-ai.md |
 | 2026-11-20 | Godot 4 敌人感知系统实战：视野锥、视线遮挡与听觉怀疑度 | AI 感知系统, Perception System, 视野锥, FOV, 点积视角判定, 视线遮挡, RayCast3D, 听觉感知, 怀疑度, suspicion | articles/2026-11-20-godot-enemy-perception-fov.md |
 | 2026-11-19 | Godot 4 PCG 实战：用 Wave Function Collapse 与噪声生成程序化地牢 | PCG, 程序化生成, Wave Function Collapse, WFC, 约束传播, 熵最小化, FastNoiseLite, 种子随机, TileMapLayer, 程序化地牢 | articles/2026-11-19-godot-pcg-wfc-procedural-generation.md |

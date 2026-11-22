@@ -12,14 +12,15 @@
 
 ## 文章统计
 
-- 累计文章：**12** 篇
-- 最新更新：**2026-11-22**
-- 文章文件数：**12** 个
+- 累计文章：**13** 篇
+- 最新更新：**2026-11-23**
+- 文章文件数：**13** 个
 
 ## 最新文章
 
 | 日期 | 标题 | 主题关键词 | 文件 |
 |---|---|---|---|
+| 2026-11-23 | Godot 4 蒙特卡洛树搜索实战：用 MCTS 打造会思考的井字棋对手 | 蒙特卡洛树搜索, Monte Carlo Tree Search, MCTS, UCT, UCB1, 随机模拟, 选择扩展回传, 回合制 AI, 井字棋 | articles/2026-11-23-godot-mcts-tic-tac-toe.md |
 | 2026-11-22 | Godot 4 遗传算法实战：用选择、交叉与变异进化敌人 AI | 遗传算法, Genetic Algorithm, 进化计算, 适应度函数, 锦标赛选择, 均匀交叉, 高斯变异, 精英保留 | articles/2026-11-22-godot-genetic-algorithm-enemy-ai.md |
 | 2026-11-21 | Godot 4 影响图（Influence Map）实战：给网格装上战术危险感 | Influence Map, 影响图, 战术 AI, 危险场, 空间推理, AStarGrid2D, 影响传播, 权重寻路 | articles/2026-11-21-godot-influence-maps-tactical-ai.md |
 | 2026-11-20 | Godot 4 敌人感知系统实战：视野锥、视线遮挡与听觉怀疑度 | AI 感知系统, Perception System, 视野锥, FOV, 点积视角判定, 视线遮挡, RayCast3D, 听觉感知, 怀疑度, suspicion | articles/2026-11-20-godot-enemy-perception-fov.md |

@@ -12,14 +12,15 @@
 
 ## 文章统计
 
-- 累计文章：**15** 篇
-- 最新更新：**2026-11-25**
-- 文章文件数：**15** 个
+- 累计文章：**16** 篇
+- 最新更新：**2026-11-26**
+- 文章文件数：**16** 个
 
 ## 最新文章
 
 | 日期 | 标题 | 主题关键词 | 文件 |
 |---|---|---|---|
+| 2026-11-26 | Godot 4 机器学习插件实战：把训练好的神经网络装进游戏做实时推理 | 机器学习插件, 神经网络推理, ONNX Runtime, ncnn, GDScript MLP, 前向传播, 模型部署 | articles/2026-11-26-godot-ml-plugin-neural-inference.md |
 | 2026-11-25 | Godot 4 流场寻路（Flow Field Pathfinding）实战：让上千个单位共享同一条路 | Flow Field, 流场寻路, Integration Field, Dijkstra Map, 向量场, RTS, 群体寻路, Pathfinding | articles/2026-11-25-godot-flow-field-pathfinding.md |
 | 2026-11-24 | Godot 4 分层任务网络实战：用 HTN 让敌人自己拆解行动序列 | HTN, 分层任务网络, Hierarchical Task Network, compound task, primitive task, method, 任务分解, 回滚 rollback | articles/2026-11-24-godot-htn-hierarchical-task-network.md |
 | 2026-11-23 | Godot 4 蒙特卡洛树搜索实战：用 MCTS 打造会思考的井字棋对手 | 蒙特卡洛树搜索, Monte Carlo Tree Search, MCTS, UCT, UCB1, 随机模拟, 选择扩展回传, 回合制 AI, 井字棋 | articles/2026-11-23-godot-mcts-tic-tac-toe.md |
